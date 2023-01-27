@@ -1,3 +1,5 @@
+
+package org.esprit;
 public class Etudiant {
     private int Id;
     private String Nom;
