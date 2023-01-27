@@ -1,3 +1,20 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Git-2023" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Git-2023" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+=======
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
@@ -10,4 +27,5 @@
       </profile>
     </annotationProcessing>
   </component>
+>>>>>>> 7ad6db5071658e6f0bcd6e3600ff539d8811c6ba
 </project>
