@@ -21,4 +21,12 @@ public class Promotion {
     public void setEtudiants(List<Etudiant> etudiants) {
         Etudiants = etudiants;
     }
+
+    @Override
+    public String toString() {
+        return "Promotion{" +
+                "year=" + year +
+                ", Etudiants=" + Etudiants +
+                '}';
+    }
 }
